@@ -1,0 +1,39 @@
+,average_entry_score,chip_plays,data_checked,deadline_time,deadline_time_epoch,deadline_time_game_offset,finished,highest_score,highest_scoring_entry,id,is_current,is_next,is_previous,most_captained,most_selected,most_transferred_in,most_vice_captained,name,top_element,top_element_info,transfers_made
+0,65,"[{'chip_name': 'bboost', 'num_played': 128770}, {'chip_name': '3xc', 'num_played': 271367}]",False,2019-08-09T18:00:00Z,1565373600,0,True,142.0,3493085.0,1,False,False,True,191.0,183.0,1.0,189.0,Gameweek 1,214.0,"{'id': 214, 'points': 20}",0
+1,41,"[{'chip_name': 'bboost', 'num_played': 114585}, {'chip_name': 'freehit', 'num_played': 89437}, {'chip_name': 'wildcard', 'num_played': 263066}, {'chip_name': '3xc', 'num_played': 216711}]",False,2019-08-17T10:30:00Z,1566037800,0,True,119.0,6106693.0,2,True,False,False,191.0,183.0,235.0,214.0,Gameweek 2,278.0,"{'id': 278, 'points': 17}",9998839
+2,0,[],False,2019-08-23T18:00:00Z,1566583200,0,False,,,3,False,True,False,,,,,Gameweek 3,,,0
+3,0,[],False,2019-08-31T10:30:00Z,1567247400,0,False,,,4,False,False,False,,,,,Gameweek 4,,,0
+4,0,[],False,2019-09-14T10:30:00Z,1568457000,0,False,,,5,False,False,False,,,,,Gameweek 5,,,0
+5,0,[],False,2019-09-20T18:00:00Z,1569002400,0,False,,,6,False,False,False,,,,,Gameweek 6,,,0
+6,0,[],False,2019-09-28T10:30:00Z,1569666600,0,False,,,7,False,False,False,,,,,Gameweek 7,,,0
+7,0,[],False,2019-10-05T10:30:00Z,1570271400,0,False,,,8,False,False,False,,,,,Gameweek 8,,,0
+8,0,[],False,2019-10-19T10:30:00Z,1571481000,0,False,,,9,False,False,False,,,,,Gameweek 9,,,0
+9,0,[],False,2019-10-25T18:00:00Z,1572026400,0,False,,,10,False,False,False,,,,,Gameweek 10,,,0
+10,0,[],False,2019-11-02T14:00:00Z,1572703200,0,False,,,11,False,False,False,,,,,Gameweek 11,,,0
+11,0,[],False,2019-11-09T14:00:00Z,1573308000,0,False,,,12,False,False,False,,,,,Gameweek 12,,,0
+12,0,[],False,2019-11-23T14:00:00Z,1574517600,0,False,,,13,False,False,False,,,,,Gameweek 13,,,0
+13,0,[],False,2019-11-30T14:00:00Z,1575122400,0,False,,,14,False,False,False,,,,,Gameweek 14,,,0
+14,0,[],False,2019-12-03T18:45:00Z,1575398700,0,False,,,15,False,False,False,,,,,Gameweek 15,,,0
+15,0,[],False,2019-12-07T14:00:00Z,1575727200,0,False,,,16,False,False,False,,,,,Gameweek 16,,,0
+16,0,[],False,2019-12-14T14:00:00Z,1576332000,0,False,,,17,False,False,False,,,,,Gameweek 17,,,0
+17,0,[],False,2019-12-21T14:00:00Z,1576936800,0,False,,,18,False,False,False,,,,,Gameweek 18,,,0
+18,0,[],False,2019-12-26T14:00:00Z,1577368800,0,False,,,19,False,False,False,,,,,Gameweek 19,,,0
+19,0,[],False,2019-12-28T14:00:00Z,1577541600,0,False,,,20,False,False,False,,,,,Gameweek 20,,,0
+20,0,[],False,2020-01-01T14:00:00Z,1577887200,0,False,,,21,False,False,False,,,,,Gameweek 21,,,0
+21,0,[],False,2020-01-11T14:00:00Z,1578751200,0,False,,,22,False,False,False,,,,,Gameweek 22,,,0
+22,0,[],False,2020-01-18T14:00:00Z,1579356000,0,False,,,23,False,False,False,,,,,Gameweek 23,,,0
+23,0,[],False,2020-01-21T18:45:00Z,1579632300,0,False,,,24,False,False,False,,,,,Gameweek 24,,,0
+24,0,[],False,2020-02-01T14:00:00Z,1580565600,0,False,,,25,False,False,False,,,,,Gameweek 25,,,0
+25,0,[],False,2020-02-08T14:00:00Z,1581170400,0,False,,,26,False,False,False,,,,,Gameweek 26,,,0
+26,0,[],False,2020-02-22T14:00:00Z,1582380000,0,False,,,27,False,False,False,,,,,Gameweek 27,,,0
+27,0,[],False,2020-02-29T14:00:00Z,1582984800,0,False,,,28,False,False,False,,,,,Gameweek 28,,,0
+28,0,[],False,2020-03-07T14:00:00Z,1583589600,0,False,,,29,False,False,False,,,,,Gameweek 29,,,0
+29,0,[],False,2020-03-14T14:00:00Z,1584194400,0,False,,,30,False,False,False,,,,,Gameweek 30,,,0
+30,0,[],False,2020-03-21T14:00:00Z,1584799200,0,False,,,31,False,False,False,,,,,Gameweek 31,,,0
+31,0,[],False,2020-04-04T13:00:00Z,1586005200,0,False,,,32,False,False,False,,,,,Gameweek 32,,,0
+32,0,[],False,2020-04-11T13:00:00Z,1586610000,0,False,,,33,False,False,False,,,,,Gameweek 33,,,0
+33,0,[],False,2020-04-18T13:00:00Z,1587214800,0,False,,,34,False,False,False,,,,,Gameweek 34,,,0
+34,0,[],False,2020-04-25T13:00:00Z,1587819600,0,False,,,35,False,False,False,,,,,Gameweek 35,,,0
+35,0,[],False,2020-05-02T13:00:00Z,1588424400,0,False,,,36,False,False,False,,,,,Gameweek 36,,,0
+36,0,[],False,2020-05-09T13:00:00Z,1589029200,0,False,,,37,False,False,False,,,,,Gameweek 37,,,0
+37,0,[],False,2020-05-17T13:00:00Z,1589720400,0,False,,,38,False,False,False,,,,,Gameweek 38,,,0
