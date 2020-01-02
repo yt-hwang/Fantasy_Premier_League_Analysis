@@ -1,0 +1,12 @@
+,id,name,start_event,stop_event
+0,1,Overall,1,38
+1,2,August,1,4
+2,3,September,5,7
+3,4,October,8,10
+4,5,November,11,14
+5,6,December,15,20
+6,7,January,21,24
+7,8,February,25,28
+8,9,March,29,31
+9,10,April,32,35
+10,11,May,36,38
