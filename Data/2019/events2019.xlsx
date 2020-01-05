@@ -13,20 +13,20 @@
 11,12,Gameweek 12,2019-11-08T19:00:00Z,48,True,False,7014679.0,1573239600,0,119.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 50200}, {'chip_name': 'freehit', 'num_played': 76548}, {'chip_name': 'wildcard', 'num_played': 92282}, {'chip_name': '3xc', 'num_played': 33711}]",460.0,431.0,84.0,"{'id': 84, 'points': 12}",6661058,460.0,192.0
 12,13,Gameweek 13,2019-11-23T11:30:00Z,49,True,False,1305610.0,1574508600,0,124.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 41581}, {'chip_name': 'freehit', 'num_played': 73811}, {'chip_name': 'wildcard', 'num_played': 141943}, {'chip_name': '3xc', 'num_played': 60669}]",460.0,166.0,84.0,"{'id': 84, 'points': 17}",8018067,166.0,192.0
 13,14,Gameweek 14,2019-11-30T11:30:00Z,51,True,False,3214667.0,1575113400,0,124.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 43934}, {'chip_name': 'freehit', 'num_played': 58376}, {'chip_name': 'wildcard', 'num_played': 107335}, {'chip_name': '3xc', 'num_played': 85856}]",297.0,409.0,183.0,"{'id': 183, 'points': 17}",6995827,166.0,192.0
-14,15,Gameweek 15,2019-12-03T18:30:00Z,49,True,True,4812285.0,1575397800,0,117.0,True,False,False,"[{'chip_name': 'bboost', 'num_played': 60471}, {'chip_name': 'freehit', 'num_played': 29791}, {'chip_name': 'wildcard', 'num_played': 50012}, {'chip_name': '3xc', 'num_played': 96456}]",166.0,70.0,192.0,"{'id': 192, 'points': 15}",4393166,166.0,192.0
-15,16,Gameweek 16,2019-12-07T11:30:00Z,45,False,False,305081.0,1575718200,0,124.0,False,True,False,"[{'chip_name': 'bboost', 'num_played': 70638}, {'chip_name': 'freehit', 'num_played': 30670}, {'chip_name': 'wildcard', 'num_played': 57853}, {'chip_name': '3xc', 'num_played': 45872}]",166.0,344.0,338.0,"{'id': 338, 'points': 16}",5239833,166.0,192.0
-16,17,Gameweek 17,2019-12-14T11:30:00Z,0,False,False,,1576323000,0,,False,False,True,[],,,,,0,,
-17,18,Gameweek 18,2019-12-21T11:30:00Z,0,False,False,,1576927800,0,,False,False,False,[],,,,,0,,
-18,19,Gameweek 19,2019-12-26T11:30:00Z,0,False,False,,1577359800,0,,False,False,False,[],,,,,0,,
-19,20,Gameweek 20,2019-12-28T11:30:00Z,0,False,False,,1577532600,0,,False,False,False,[],,,,,0,,
-20,21,Gameweek 21,2020-01-01T11:30:00Z,0,False,False,,1577878200,0,,False,False,False,[],,,,,0,,
-21,22,Gameweek 22,2020-01-10T19:00:00Z,0,False,False,,1578682800,0,,False,False,False,[],,,,,0,,
+14,15,Gameweek 15,2019-12-03T18:30:00Z,49,True,True,4812285.0,1575397800,0,117.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 60471}, {'chip_name': 'freehit', 'num_played': 29791}, {'chip_name': 'wildcard', 'num_played': 50012}, {'chip_name': '3xc', 'num_played': 96456}]",166.0,70.0,192.0,"{'id': 192, 'points': 15}",4393166,166.0,192.0
+15,16,Gameweek 16,2019-12-07T11:30:00Z,54,True,True,932535.0,1575718200,0,127.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 70638}, {'chip_name': 'freehit', 'num_played': 30670}, {'chip_name': 'wildcard', 'num_played': 57853}, {'chip_name': '3xc', 'num_played': 45872}]",166.0,344.0,338.0,"{'id': 338, 'points': 16}",5239833,166.0,192.0
+16,17,Gameweek 17,2019-12-14T11:30:00Z,56,True,True,2261247.0,1576323000,0,131.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 83986}, {'chip_name': 'freehit', 'num_played': 43283}, {'chip_name': 'wildcard', 'num_played': 82312}, {'chip_name': '3xc', 'num_played': 161733}]",166.0,233.0,215.0,"{'id': 215, 'points': 19}",6301130,166.0,192.0
+17,18,Gameweek 18,2019-12-21T11:30:00Z,38,True,True,2365688.0,1576927800,0,100.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 31116}, {'chip_name': 'freehit', 'num_played': 203823}, {'chip_name': 'wildcard', 'num_played': 93644}, {'chip_name': '3xc', 'num_played': 25796}]",166.0,215.0,113.0,"{'id': 113, 'points': 16}",7276371,166.0,166.0
+18,19,Gameweek 19,2019-12-26T11:30:00Z,49,True,True,7224850.0,1577359800,0,124.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 60633}, {'chip_name': 'freehit', 'num_played': 39223}, {'chip_name': 'wildcard', 'num_played': 87255}, {'chip_name': '3xc', 'num_played': 40904}]",166.0,215.0,182.0,"{'id': 182, 'points': 24}",5352893,166.0,215.0
+19,20,Gameweek 20,2019-12-28T11:30:00Z,54,True,True,5086767.0,1577532600,0,108.0,True,False,False,"[{'chip_name': 'bboost', 'num_played': 38112}, {'chip_name': 'freehit', 'num_played': 31545}, {'chip_name': 'wildcard', 'num_played': 80145}, {'chip_name': '3xc', 'num_played': 35163}]",166.0,182.0,215.0,"{'id': 215, 'points': 14}",4408900,166.0,215.0
+20,21,Gameweek 21,2020-01-01T11:30:00Z,48,True,True,7032684.0,1577878200,0,112.0,False,True,False,"[{'chip_name': 'bboost', 'num_played': 36496}, {'chip_name': 'freehit', 'num_played': 19675}, {'chip_name': 'wildcard', 'num_played': 185172}, {'chip_name': '3xc', 'num_played': 37683}]",166.0,417.0,396.0,"{'id': 396, 'points': 16}",5824001,166.0,215.0
+21,22,Gameweek 22,2020-01-10T19:00:00Z,0,False,False,,1578682800,0,,False,False,True,[],,,,,0,,
 22,23,Gameweek 23,2020-01-18T11:30:00Z,0,False,False,,1579347000,0,,False,False,False,[],,,,,0,,
 23,24,Gameweek 24,2020-01-21T18:30:00Z,0,False,False,,1579631400,0,,False,False,False,[],,,,,0,,
-24,25,Gameweek 25,2020-02-01T14:00:00Z,0,False,False,,1580565600,0,,False,False,False,[],,,,,0,,
-25,26,Gameweek 26,2020-02-08T14:00:00Z,0,False,False,,1581170400,0,,False,False,False,[],,,,,0,,
-26,27,Gameweek 27,2020-02-22T14:00:00Z,0,False,False,,1582380000,0,,False,False,False,[],,,,,0,,
-27,28,Gameweek 28,2020-02-29T14:00:00Z,0,False,False,,1582984800,0,,False,False,False,[],,,,,0,,
+24,25,Gameweek 25,2020-02-01T11:30:00Z,0,False,False,,1580556600,0,,False,False,False,[],,,,,0,,
+25,26,Gameweek 26,2020-02-08T11:30:00Z,0,False,False,,1581161400,0,,False,False,False,[],,,,,0,,
+26,27,Gameweek 27,2020-02-22T11:30:00Z,0,False,False,,1582371000,0,,False,False,False,[],,,,,0,,
+27,28,Gameweek 28,2020-02-28T19:00:00Z,0,False,False,,1582916400,0,,False,False,False,[],,,,,0,,
 28,29,Gameweek 29,2020-03-07T14:00:00Z,0,False,False,,1583589600,0,,False,False,False,[],,,,,0,,
 29,30,Gameweek 30,2020-03-14T14:00:00Z,0,False,False,,1584194400,0,,False,False,False,[],,,,,0,,
 30,31,Gameweek 31,2020-03-21T14:00:00Z,0,False,False,,1584799200,0,,False,False,False,[],,,,,0,,
