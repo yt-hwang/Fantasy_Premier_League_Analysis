@@ -20,7 +20,7 @@
 18,19,Gameweek 19,2019-12-26T11:30:00Z,49,True,True,7224850.0,1577359800,0,124.0,False,False,False,"[{'chip_name': 'bboost', 'num_played': 60633}, {'chip_name': 'freehit', 'num_played': 39223}, {'chip_name': 'wildcard', 'num_played': 87255}, {'chip_name': '3xc', 'num_played': 40904}]",166.0,215.0,182.0,"{'id': 182, 'points': 24}",5352893,166.0,215.0
 19,20,Gameweek 20,2019-12-28T11:30:00Z,54,True,True,5086767.0,1577532600,0,108.0,True,False,False,"[{'chip_name': 'bboost', 'num_played': 38112}, {'chip_name': 'freehit', 'num_played': 31545}, {'chip_name': 'wildcard', 'num_played': 80145}, {'chip_name': '3xc', 'num_played': 35163}]",166.0,182.0,215.0,"{'id': 215, 'points': 14}",4408900,166.0,215.0
 20,21,Gameweek 21,2020-01-01T11:30:00Z,48,True,True,7032684.0,1577878200,0,112.0,False,True,False,"[{'chip_name': 'bboost', 'num_played': 36496}, {'chip_name': 'freehit', 'num_played': 19675}, {'chip_name': 'wildcard', 'num_played': 185172}, {'chip_name': '3xc', 'num_played': 37683}]",166.0,417.0,396.0,"{'id': 396, 'points': 16}",5824001,166.0,215.0
-21,22,Gameweek 22,2020-01-10T19:00:00Z,0,False,False,,1578682800,0,,False,False,True,[],,,,,0,,
+21,22,Gameweek 22,2020-01-10T19:00:00Z,0,False,False,,1578682800,0,,False,False,True,[],,,,,3688372,,
 22,23,Gameweek 23,2020-01-18T11:30:00Z,0,False,False,,1579347000,0,,False,False,False,[],,,,,0,,
 23,24,Gameweek 24,2020-01-21T18:30:00Z,0,False,False,,1579631400,0,,False,False,False,[],,,,,0,,
 24,25,Gameweek 25,2020-02-01T11:30:00Z,0,False,False,,1580556600,0,,False,False,False,[],,,,,0,,
